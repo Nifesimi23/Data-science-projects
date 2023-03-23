@@ -6,7 +6,7 @@ This is a collection of my works
 *### PowerBI Visuals
 1. [Riby Dashboard](https://github.com/Nifesimi23/Data-science-projects/blob/main/Riby%20Dashboard.pdf)
 
-2. [Capston project - Uptimize Visual]()
+2. [Capston project - Uptimize Visual](https://github.com/Nifesimi23/Data-science-projects/blob/main/Capstone%20project%20Visuals.pdf)
 
 
 *### ML projects
