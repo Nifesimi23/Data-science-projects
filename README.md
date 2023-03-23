@@ -9,7 +9,7 @@ This is a collection of my works
 2. [Capston project - Uptimize Visual](https://github.com/Nifesimi23/Data-science-projects/blob/main/Capstone%20project%20Visuals.pdf)
 
 *### Data Analysis
-1. [Netflix analysis]()
+1. [Netflix analysis](https://github.com/Nifesimi23/Data-science-projects/blob/main/Netflix%20visualization.ipynb)
 2. [Google play analysis]()
 
 
