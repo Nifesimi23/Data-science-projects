@@ -8,6 +8,10 @@ This is a collection of my works
 
 2. [Capston project - Uptimize Visual](https://github.com/Nifesimi23/Data-science-projects/blob/main/Capstone%20project%20Visuals.pdf)
 
+*### Data Analysis
+1. [Netflix analysis]()
+2. [Google play analysis]()
+
 
 *### ML projects
 1. [Human Resource Retention](https://github.com/Nifesimi23/Data-science-projects/blob/main/Human%20Resource%20Retention.ipynb)
