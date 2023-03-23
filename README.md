@@ -3,6 +3,12 @@ This is a collection of my works
 
 ## contents
 
+*### PowerBI Visuals
+1. [Riby Dashboard]()
+
+2. [Capston project - Uptimize Visual]()
+
+
 *### ML projects
 1. [Human Resource Retention](https://github.com/Nifesimi23/Data-science-projects/blob/main/Human%20Resource%20Retention.ipynb)
 
