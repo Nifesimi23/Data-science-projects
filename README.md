@@ -7,6 +7,9 @@ This is a collection of my works
 1. [Riby Dashboard](https://github.com/Nifesimi23/Data-science-projects/blob/main/Riby%20Dashboard.pdf)
 
 2. [Capston project - Uptimize Visual](https://github.com/Nifesimi23/Data-science-projects/blob/main/Capstone%20project%20Visuals.pdf)
+This an analysis of different important key point indicators that are used in the recruitment selection process as gotten from a survey taken from business and hiring personnel
+
+
 
 *### Data Analysis
 1. [Netflix analysis](https://github.com/Nifesimi23/Data-science-projects/blob/main/Netflix%20visualization.ipynb)
