@@ -3,7 +3,7 @@ This is a collection of my works
 
 ## contents
 
-*### PowerBI Visuals
+* ### PowerBI Visuals
 1. **[Riby Dashboard](https://github.com/Nifesimi23/Data-science-projects/blob/main/Riby%20Dashboard.pdf)**
 
  This visualization gave an insight to the major sales regions and best selling products.
@@ -14,7 +14,7 @@ This an analysis of different important key point indicators that are used in th
 
 
 
-*### Data Analysis
+* ### Data Analysis
 
 1. **[Netflix analysis](https://github.com/Nifesimi23/Data-science-projects/blob/main/Netflix%20visualization.ipynb)**
 
@@ -23,7 +23,7 @@ This an analysis of different important key point indicators that are used in th
 This ia an analysis of over 15000 apps to determine the most profitable apps in the Google Playstore.
 
 
-*### ML projects
+* ### ML projects
 1. **[Human Resource Retention](https://github.com/Nifesimi23/Data-science-projects/blob/main/Human%20Resource%20Retention.ipynb)**
 
 In this project an exploratory data analysis to figure out which variables have direct and clear impact on employee retention (i.e. whether they leave the company or continue to work).
