@@ -1,5 +1,5 @@
 # Data-science-projects
-This is a collection of my works
+This is a collection of all the projects I have worked on.
 
 ## contents
 
