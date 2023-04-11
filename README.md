@@ -25,7 +25,7 @@ This ia an analysis of over 15000 apps to determine the most profitable apps in 
 
 
 * ### ML projects
-1. **[Human Resource Retention](https://github.com/Nifesimi23/Data-science-projects/blob/main/Human%20Resource%20Retention.ipynb)**
+1. **[Human Resource Retention](https://github.com/Nifesimi23/Data-science-projects/blob/main/Machine%20learning/Human%20Resource%20Retention.ipynb)**
 
 In this project an exploratory data analysis to figure out which variables have direct and clear impact on employee retention (i.e. whether they leave the company or continue to work).
 
