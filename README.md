@@ -4,7 +4,8 @@ This is a collection of my works
 ## contents
 
 * ### PowerBI Visuals
-1. **[Riby Dashboard](https://github.com/Nifesimi23/Data-science-projects/blob/main/Riby%20Dashboard.pdf)**
+1. **[Riby Dashboard](https://github.com/Nifesimi23/Data-science-projects/blob/main/Data%20visualization/Riby%20Dashboard.pdf)**
+
 
  This visualization gave an insight to the major sales regions and best selling products.
 
